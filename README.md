@@ -162,10 +162,9 @@ Building these 50 projects helped me practice:
 
 ## Author
 
-**Your Name**
+**godragun**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@godragun](https://github.com/godragun)
 
 ---
 
